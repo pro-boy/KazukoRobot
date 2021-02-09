@@ -9,7 +9,6 @@
 ![Issues](https://img.shields.io/github/issues/pro-boy/RoyokoRobot?style=for-the-badge&logo=appveyor)
 ![Forks](https://img.shields.io/github/forks/pro-boy/RoyokoRobot?style=for-the-badge&logo=appveyor)
 ![Stars](https://img.shields.io/github/stars/pro-boy/RoyokoRobot?style=for-the-badge&logo=appveyor)
-![LICENSE](https://img.shields.io/github/license/pro-boy/RoyokoRobot?style=for-the-badge&logo=appveyor)
 ![Contributors](https://img.shields.io/github/contributors/pro-boy/RoyokoRobot?style=for-the-badge&logo=appveyor)
 ![Repository Size](https://img.shields.io/github/repo-size/pro-boy/RoyokoRobot?style=for-the-badge&logo=appveyor)</br>
 
