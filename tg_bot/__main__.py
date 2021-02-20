@@ -27,12 +27,12 @@ I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 ×××××××××××××××××××××××××××
 >> For Available Commands Hit /help.
->> For Royoko Updates Join [Here](https://t.me/RoyokoSupportChat).
+>> For Kazuko Updates Join [Here](https://t.me/KazukoSupport).
 ×××××××××××××××××××××××××××
 """
 
 
-BOT_IMG = "https://telegra.ph/file/98cb413468829dc59a74c.mp4"
+BOT_IMG = "https://telegra.ph/file/84617c3ee90a272c1739d.jpg"
 
 
 
