@@ -27,12 +27,12 @@ I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 ×××××××××××××××××××××××××××
 >> For Available Commands Hit /help.
->> For Kazuko Updates Join [Here](https://t.me/KazukoSupport).
+>> For Sakura Updates Join [Here](https://t.me/AsukoSupport).
 ×××××××××××××××××××××××××××
 """
 
 
-BOT_IMG = "https://telegra.ph/file/84617c3ee90a272c1739d.jpg"
+BOT_IMG = "https://telegra.ph/file/6558a110eea1ed9871b45.jpg"
 
 
 
@@ -153,21 +153,21 @@ def start(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="Add saber to your group",
+                            text="Add Sakura to your group",
                             url="t.me/{}?startgroup=true".format(context.bot.username))
                     ],
                     [
                         InlineKeyboardButton(
                             text="Support Chat ",
-                            url="https://t.me/fateUnion"),
+                            url="https://t.me/AsukoSupport"),
                         InlineKeyboardButton(
                             text="Updates ",
-                            url="https://t.me/fateunionupdates")
+                            url="https://t.me/Asukoupdates")
                     ],
                     [
                         InlineKeyboardButton(
                             text="help",
-                            url="https://t.me/saber_herobot?start=help")
+                            url="https://t.me/Sakuro_probot?start=help")
                     ]]))
        
 #@run_async
@@ -185,7 +185,7 @@ def start(update, context):
 
 
     else:
-        update.effective_message.reply_text("HI, Why u summoned me")
+        update.effective_message.reply_text("Hey!! I am Alive")
 
 def error_handler(update, context):
     """Log the error and send a telegram message to notify the developer."""
